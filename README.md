@@ -14,7 +14,7 @@ Configure resource `config.json` to look like this
 "status": "", // bot Status
 "name": "" // bot Name
 
-- Configure your `server.cfg` to look like this
+Configure your `server.cfg` to look like this
 start D2BotFiveM
 ```
 
