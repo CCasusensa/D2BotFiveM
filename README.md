@@ -5,14 +5,14 @@ author CCasusensa(lrenex)
 
 ### Installation + setting up
 ```
-- Download resource
-- Put it in the `resource/other` directory
+Download resource
+Put it in the `resource/other` directory
 
-- Configure resource `config.json` to look like this
-+    "token": "", // bot token https://discord.com/developers/applications
-+    "avatar": "", // bot avatar url
-+    "status": "", // bot Status
-+    "name": "" // bot Name
+Configure resource `config.json` to look like this
+"token": "", // bot token https://discord.com/developers/applications
+"avatar": "", // bot avatar url
+"status": "", // bot Status
+"name": "" // bot Name
 
 - Configure your `server.cfg` to look like this
 start D2BotFiveM
@@ -20,10 +20,10 @@ start D2BotFiveM
 
 ### setting up
 ```
-- Download resource
-- Put it in the `resource/other` directory
+Download resource
+Put it in the `resource/other` directory
 
-- Configure your `server.cfg`
+Configure your `server.cfg`
 start D2BotFiveM
 ```
 
