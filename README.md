@@ -27,7 +27,7 @@ Configure your `server.cfg`
 start D2BotFiveM
 ```
 
-### Code examples
+### Use examples
 
 ```
 #send log to Discord

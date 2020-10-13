@@ -2,5 +2,10 @@
     "token": "",
     "avatar": "",
     "status": "",
-    "name": ""
+    "name": "",
+	"updatePlayerStatus": false,
+	"updatePlayerStatusSec": 10,
+	"autoStatus": false,
+	"autoStatusMsg": [ "TEST1", "TEST2", "TEST3", "TEST4", "TEST5", "TEST6" ],
+	"autoStatusSec": 5
 }
