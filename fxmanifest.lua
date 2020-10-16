@@ -5,7 +5,7 @@ author "lrenex"
 description "discord.js Bot in FiveM"
 version "1.0.0"
 
-server_script {
+server_scripts {
     "bot.js",
     "utils/fiveMLogs.js"
 }
